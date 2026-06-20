@@ -386,6 +386,11 @@
               <FileType>1</FileType>
               <FilePath>.\Source\main.c</FilePath>
             </File>
+            <File>
+              <FileName>uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Source\uart.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -395,6 +400,11 @@
               <FileName>config.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Include\config.h</FilePath>
+            </File>
+            <File>
+              <FileName>uart.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Include\uart.h</FilePath>
             </File>
           </Files>
         </Group>
